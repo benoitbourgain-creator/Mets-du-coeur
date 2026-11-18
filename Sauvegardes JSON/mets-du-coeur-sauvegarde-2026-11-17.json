@@ -1,0 +1,10 @@
+{
+  "application": "Mets du cœur",
+  "version": 1,
+  "date": "2026-11-17T16:54:42.006Z",
+  "donnees": {
+    "mets-coeur-recettes": null,
+    "mets-coeur-commandes": null,
+    "mets-coeur-production": null
+  }
+}

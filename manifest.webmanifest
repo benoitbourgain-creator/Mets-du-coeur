@@ -1,0 +1,14 @@
+
+{
+  "name": "Mets du cœur",
+  "short_name": "Mets du cœur",
+  "description": "Application de gestion de Mets du cœur",
+  "lang": "fr-FR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F8F6F0",
+  "theme_color": "#292D29",
+  "icons": []
+}
